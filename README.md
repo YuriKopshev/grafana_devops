@@ -10,7 +10,7 @@
 1. Подключите поднятый вами prometheus, как источник данных.
 1. Решение домашнего задания — скриншот веб-интерфейса grafana со списком подключенных Datasource.
 
-![скриншот веб-интерфейса grafana]();
+![скриншот веб-интерфейса grafana](https://github.com/YuriKopshev/grafana_devops/blob/main/img/grafana1.png);
 
 ## Задание 2
 
@@ -41,7 +41,7 @@
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
 
-![скриншот Дашборда с добавленными Panels и Alerts]();
+![скриншот Дашборда с добавленными Panels и Alerts](https://github.com/YuriKopshev/grafana_devops/blob/main/img/grafana3.png);
 
 ## Задание 4
 
